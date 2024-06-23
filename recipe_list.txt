@@ -1,1 +1,3 @@
-Slashdot.org
+nytimes.com
+cnn.com
+dr.dk
